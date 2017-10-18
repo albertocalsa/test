@@ -5,4 +5,8 @@
 * Activate environment: `source activate lastfm`
 
 ## Run tests
-* With py.test (provided): `pythom -m pytest tests`
+* With py.test (provided): `python -m pytest tests`
+
+## Run script
+* Paste the lastfm file in a directory named `data` in the root of the project
+* Run the script `main.py`
